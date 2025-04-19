@@ -1,0 +1,8 @@
+{
+  "dataset_dir": "data/processed/field_dataset_fixed",
+  "output_dir": "models/field_classifier",
+  "model_type": "resnet",
+  "batch_size": 16,
+  "epochs": 10,
+  "image_size": 224
+}

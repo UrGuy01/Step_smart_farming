@@ -1,0 +1,27 @@
+
+===== Dataset Statistics =====
+Total samples: 2250
+
+Split distribution:
+  train: 1638 samples (72.8%)
+  val: 301 samples (13.4%)
+  test: 311 samples (13.8%)
+
+Class distribution:
+  double_plant: 250 samples (11.1%)
+  drydown: 250 samples (11.1%)
+  endrow: 250 samples (11.1%)
+  nutrient_deficiency: 250 samples (11.1%)
+  planter_skip: 250 samples (11.1%)
+  storm_damage: 250 samples (11.1%)
+  water: 250 samples (11.1%)
+  waterway: 250 samples (11.1%)
+  weed_cluster: 250 samples (11.1%)
+
+Image Characteristics Summary:
+Sample size: 100 images
+Image dimensions:
+  - Height: min=512, max=512, mean=512.0
+  - Width: min=512, max=512, mean=512.0
+Image channels: {3}
+Label unique values: [np.uint8(0), np.uint8(255)]
