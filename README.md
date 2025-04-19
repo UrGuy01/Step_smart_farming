@@ -156,12 +156,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Due to GitHub file size limitations, the actual datasets are not included in this repository. Instead, they are available via the following links:
 
 ### Crop Recommendation Datasets
-- **Processed Data ZIP File**: [Google Drive Link](https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK)
+- **Processed Data ZIP File**: [Google Drive Link](https://drive.google.com/drive/folders/1FP1-v5HCPQm-zi4kzRFppWJkYj7HBa3s?usp=drive_link)
   - Contains all preprocessed CSV files and required PKL files
   - Extract to the project root directory to maintain the correct file structure
 
 ### Field Image Dataset
-- **Field Dataset ZIP File**: [Google Drive Link](https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK)
+- **Field Dataset ZIP File**: [Google Drive Link](https://drive.google.com/drive/folders/1FP1-v5HCPQm-zi4kzRFppWJkYj7HBa3s?usp=drive_link)
   - Contains all processed field images with corresponding labels and masks
   - Extract to `data/processed/` directory
 
